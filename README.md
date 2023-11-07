@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeKoala007
 - 👀 I’m interested in the applications of artificial intelligence to solve problems
-- 🌱 I’m currently learning computer science at Institución Universitaria de Envigado
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on any projects related to artificial intelligence and data science
 - 📫 How to reach me ...
 
